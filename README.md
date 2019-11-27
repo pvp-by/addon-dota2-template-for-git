@@ -1,5 +1,5 @@
 # addon-dota2-template-for-git
-![addons and git](https://raw.githubusercontent.com/pvp-by/custom-addon-dota2-template-for-git/master/mklink_repo.png?token=ACNKD23DM7HBOYMKDRDWEK253TBRW)
+![addons and git](https://github.com/pvp-by/addon-dota2-template-for-git/blob/master/mklink_repo.png)
 ============
 
 ## **[ENG]** 
