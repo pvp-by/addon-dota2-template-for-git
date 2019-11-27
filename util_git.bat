@@ -7,8 +7,7 @@ SetLocal EnableDelayedExpansion
 :: Получение 0x08: jeb, http://www.dostips.com/forum/viewtopic.php?p=6827#p6827
 :: Идея передачи нескольких параметров: Diskretor, http://forum.oszone.net/post-2201046-7.html
 :: MAIN GOD Dragokas http://www.cyberforum.ru/members/218284.html
-:: Main logic with multi folders for git repo when working with addons DOTA2 - Kain(pvpby) owner this repo
-:: Version 1.0 Test Win7_x64
+:: Main logic with multi folders for git repo when working with addons DOTA2 - Kain(pvpby) owner this repo.  Version 1.0 Test Win7_x64 
 cls
 ::SETTING here NEED change name your addon / тут НАДО изменить имя вашего аддона
 set your_addon=addon
