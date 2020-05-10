@@ -68,7 +68,7 @@ If Exist "%git_temp_folder_game%\*.*" (
 IF Exist "%git_folder_game%\*.*" (Call :EchoColor 0C "Folder already exists >> " 0E "%git_folder_game%" 0C " << need DELETE" /n
 Call :notok 6&EXIT /B
 )
-Call :EchoColor 0E "GIT folder cont - empty " 0A "%git_temp_folder_game%" /n
+Call :EchoColor 0E "GIT folder game - empty " 0A "%git_temp_folder_game%" /n
 ) ELSE (
 Call :EchoColor 0C "Folder not found >> " 0E "%git_temp_folder_game%" 0C " << need CREATE" /n
 Call :notok 7&EXIT /B
